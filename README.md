@@ -1,0 +1,1 @@
+This project uses machine learning and computer vision to detect plant diseases from leaf images. By leveraging deep learning models, it helps farmers and researchers identify infections early, enabling timely intervention. The system is designed to be accurate, efficient, and user-friendly, making plant health monitoring easier. 
